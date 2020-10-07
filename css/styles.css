@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --ff-primary: font-family: 'Open Sans', sans-serif;
+
+  --fw-reg: 400;
+  --fw-bold: 600;
+}
